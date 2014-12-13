@@ -1,0 +1,5 @@
+exclude *.py
+include docs/License.txt
+include docs/CHANGES
+include setup.py
+include README.md
